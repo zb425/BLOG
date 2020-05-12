@@ -12,7 +12,7 @@
     <artifactId>bs_blog_video</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>bs_blog_video</name>
-    <description>视频服务</description>
+    <description>视频</description>
 
     <properties>
         <java.version>1.8</java.version>
